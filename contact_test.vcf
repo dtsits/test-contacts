@@ -1,11 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
 N:LastName;FirstName;;;
-FN:FirstName LastName
-ORG:Your Company
-TITLE:Your Job Title
-TEL;CELL:+1234567890
-EMAIL:your@email.com
-URL:https://yourwebsite.com
-ADR:;;Street Address;City;State;Zip;Country
+FN:Dimitris Tsitsirigkos
+ORG:Clio Muse Tours
+TITLE:Product Owner
+TEL;CELL:+306986954611
+EMAIL:dimitris.tsi@cliomusetours.com
 END:VCARD
