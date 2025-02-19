@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:LastName;FirstName;;;
+N:Tsitsirigkos;Dimitris;;;
 FN:Dimitris Tsitsirigkos
 ORG:Clio Muse Tours
 TITLE:Product Owner
 TEL;CELL:+306986954611
-EMAIL:dimitris.tsi@cliomusetours.com
+EMAIL:
+URL:
+ADR:;;;;
 END:VCARD
